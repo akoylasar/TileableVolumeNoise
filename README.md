@@ -1,4 +1,4 @@
-Tileable Volume Noise
+Tileable Volume Noise (CMake version)
 ---------------------
 
 Collection of functions that can be used to generate tileable volume/3d noise. An example of volume noise functions that can be specifically used for clouds is also presented.
@@ -12,3 +12,4 @@ Done in collaboration with [weirdfoo](https://twitter.com/weirdfo).
 This library uses
  - [GLM](http://glm.g-truc.net)
  - [LibTarga](http://research.cs.wisc.edu/graphics/Gallery/LibTarga/)
+ - [parallel-util](https://github.com/yuki-koyama/parallel-util)
